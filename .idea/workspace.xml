@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7eff742f-5228-4a01-bc36-dc03ee3ea893" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>register</find>
+      <find>readtitleticket</find>
+      <find>readByid</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Views/index/index.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Views/panel/index.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Views/panel/view.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Views/common/header.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Views/common/footer.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Models/indexusers.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Controllers/index.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Models/ticket.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/App/Controller.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/App/config.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/App/Router.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/App/database.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Controllers/panel.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="23TlETp4poelNTSlnQCh2XyulIX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/document" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/options" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eff742f-5228-4a01-bc36-dc03ee3ea893" name="Default Changelist" comment="" />
+      <created>1555324989930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555324989930</updated>
+      <workItem from="1555324991266" duration="3386000" />
+      <workItem from="1555670310178" duration="8607000" />
+      <workItem from="1555769300765" duration="1851000" />
+      <workItem from="1555938788289" duration="2700000" />
+      <workItem from="1556544557300" duration="1769000" />
+      <workItem from="1556961170355" duration="8688000" />
+      <workItem from="1557042615815" duration="10609000" />
+      <workItem from="1557494542541" duration="162000" />
+      <workItem from="1557916397196" duration="1697000" />
+      <workItem from="1558179999236" duration="4213000" />
+      <workItem from="1559213766293" duration="2512000" />
+      <workItem from="1559385414606" duration="97000" />
+      <workItem from="1559385927410" duration="6983000" />
+      <workItem from="1559480066199" duration="9891000" />
+      <workItem from="1559854924324" duration="146000" />
+      <workItem from="1582377603532" duration="3503000" />
+      <workItem from="1582454966300" duration="7726000" />
+      <workItem from="1582528542662" duration="3184000" />
+      <workItem from="1582649413004" duration="178000" />
+      <workItem from="1583150477117" duration="9058000" />
+      <workItem from="1583236142473" duration="6459000" />
+      <workItem from="1583312087294" duration="10968000" />
+      <workItem from="1583498367842" duration="6259000" />
+      <workItem from="1583938078299" duration="611000" />
+      <workItem from="1584014255195" duration="2515000" />
+      <workItem from="1641765959172" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1641765965436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1641765965436" />
+  </component>
+</project>
