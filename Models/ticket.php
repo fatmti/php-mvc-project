@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: root
- * Date: 3/6/20
- * Time: 4:57 PM
- */
+
 
 class ticket extends database
 {
