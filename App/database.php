@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: root
- * Date: 3/4/20
- * Time: 1:06 PM
- */
+
 
 class database
 {
