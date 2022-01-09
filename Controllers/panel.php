@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: root
- * Date: 3/5/20
- * Time: 3:36 PM
- */
+
 
 class panel extends Controller
 {
